@@ -1,0 +1,641 @@
+{
+    "name": "Chaos Mark",
+    "type": "equipment",
+    "effects": [],
+    "system": {
+        "description": {
+            "gm": "",
+            "value": "<p>The bearer of this mark has been given a strange power that bends the laws of metaphysics, allowing them to create powerful instantaneous effects. The bearer chooses to invoke this mark as a free action while either casting a spell (invoking Metamagic of the Spheres) or hitting with an attack (invoking Might of the Spheres). It can be invoked only once per turn, and only twice per day (it matters not which effect is used, either being invoked counts as a use).</p>\n<p>The number of invocations increases at 5th, 9th, and 14th level as follows.</p>\n<table border=\"1\"><colgroup><col></col><col></col></colgroup>\n<tbody>\n<tr>\n<td>Level</td>\n<td>Charges per Day</td>\n</tr>\n<tr>\n<td>5</td>\n<td>3</td>\n</tr>\n<tr>\n<td>9</td>\n<td>4</td>\n</tr>\n<tr>\n<td>14</td>\n<td>6</td>\n</tr>\n</tbody>\n</table>\n<p>Charges refresh at dawn.</p>\n<hr />\n<h3>Metamagic of the Spheres</h3>\n<p>When the bearer casts a spell, they may elect to channel the mark to improve its power as a free action. This has the following effects upon the spell.</p>\n<ul>\n<li>Its effective spell slot used increases by 2, to a maximum of 10</li>\n<li>The spell gains a +4 bonus to any attack rolls it makes or save DCs it forces others to make.</li>\n<li>For any spell that has a duration of sustained, the Chaos Mark automatically makes a Sustain A Spell action for the spell cast with the mark at the beginning of your turn each round as a free action.</li>\n<li>For spells that have a set duration, the Chaos Mark doubles the maximum duration.</li>\n</ul>\n<h3>Might of the Spheres</h3>\n<p>When the bearer hits with an attack, they may choose to invoke the Might of the Spheres as a free action. This has the following effects upon the attack:</p>\n<ul>\n<li>It deals additional damage as the same type or types as the attack, based on the character level of the bearer and whether the attack was a critical hit or not.</li>\n</ul>\n<table style=\"width:100%;height:102px\" border=\"1\"><colgroup><col style=\"width:18.9376%\"></col><col style=\"width:27.4827%\"></col><col style=\"width:53.5797%\"></col></colgroup>\n<tbody>\n<tr style=\"height:17px\">\n<td style=\"height:17px\">Level</td>\n<td style=\"height:17px\">Damage</td>\n<td style=\"height:17px\">Critical Damage</td>\n</tr>\n<tr style=\"height:17px\">\n<td style=\"height:17px\">1</td>\n<td style=\"height:17px\">2d12</td>\n<td style=\"height:17px\">2d12+13</td>\n</tr>\n<tr style=\"height:17px\">\n<td style=\"height:17px\">5</td>\n<td style=\"height:17px\">3d12</td>\n<td style=\"height:17px\">3d12+18</td>\n</tr>\n<tr style=\"height:17px\">\n<td style=\"height:17px\">9</td>\n<td style=\"height:17px\">4d12</td>\n<td style=\"height:17px\">4d12+26</td>\n</tr>\n<tr style=\"height:17px\">\n<td style=\"height:17px\">14</td>\n<td style=\"height:17px\">5d12</td>\n<td style=\"height:17px\">5d12+33</td>\n</tr>\n<tr style=\"height:17px\">\n<td style=\"height:17px\">17</td>\n<td style=\"height:17px\">6d12</td>\n<td style=\"height:17px\">6d12+39</td>\n</tr>\n</tbody>\n</table>\n<p> </p>"
+        },
+        "source": {
+            "value": ""
+        },
+        "rules": [],
+        "slug": null,
+        "schema": {
+            "version": 0.835,
+            "lastMigration": null
+        },
+        "level": {
+            "value": 21
+        },
+        "traits": {
+            "value": [
+                "artifact",
+                "chaotic",
+                "extradimensional",
+                "tattoo"
+            ],
+            "rarity": "unique",
+            "otherTags": []
+        },
+        "quantity": 1,
+        "baseItem": null,
+        "hp": {
+            "brokenThreshold": 0,
+            "value": 0,
+            "max": 0
+        },
+        "hardness": 0,
+        "weight": {
+            "value": "-"
+        },
+        "equippedBulk": {
+            "value": "0"
+        },
+        "price": {
+            "value": {}
+        },
+        "equipped": {
+            "carryType": "worn",
+            "invested": null
+        },
+        "stackGroup": null,
+        "negateBulk": {
+            "value": "0"
+        },
+        "containerId": null,
+        "preciousMaterial": {
+            "value": null
+        },
+        "preciousMaterialGrade": {
+            "value": null
+        },
+        "size": "tiny",
+        "identification": {
+            "status": "identified",
+            "unidentified": {
+                "name": "Unusual Object",
+                "img": "systems/pf2e/icons/unidentified_item_icons/adventuring_gear.webp",
+                "data": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "misidentified": {}
+        },
+        "usage": {
+            "value": "affixed-to-a-creature"
+        }
+    },
+    "img": "modules/raan-game-world-shared-compendium/Items/strange-symbol.png",
+    "ownership": {
+        "default": 0,
+        "IvPa3qdO1bPVPHL5": 3
+    },
+    "flags": {
+        "core": {
+            "sourceId": "Item.e6bgxnC8YIHCvxUF"
+        }
+    },
+    "_stats": {
+        "systemId": "pf2e",
+        "systemVersion": "4.10.3",
+        "coreVersion": "10.291",
+        "createdTime": 1680494866103,
+        "modifiedTime": 1680496856581,
+        "lastModifiedBy": "IvPa3qdO1bPVPHL5"
+    },
+    "folder": null,
+    "sort": 0,
+    "_id": "3vMzlmtGvjQH0xjI"
+}
+{
+    "name": "Glaive of the Battle Witch",
+    "type": "weapon",
+    "effects": [],
+    "system": {
+        "description": {
+            "gm": "",
+            "value": "<p>This glaive acts as a staff with the following spells. Even a wielder who does not normally cast spells can recharge this staff by taking a long rest and spending 10 minutes as if regaining a focus point. The number of charges you regain is equal to half your level, rounded up.</p>\n<ul>\n<li>Cantrip : Gale Blast</li>\n<li>1st : Gust of Wind</li>\n<li>2nd : Obscuring Mist</li>\n<li>3rd : Blazing Dive</li>\n</ul>\n<p>The glaive can be recalled to the hand of the attuned wielder as a free action. It can be thrown as a spear dealing piercing damage instead of slashing with a range of 30 feet. The attuned can also ask it to hover behind its back as if held in an invisible frog.</p>\n<p>The glaive has a limited ability to glamer itself, and can conjure nonmagical elements to accomplish this. Commonly, it masquerades as a broom.</p>\n<p>Finally, the attuned wielder will find that they are subject to a permanent feather fall effect so long as they have this weapon in hand.</p>"
+        },
+        "source": {
+            "value": ""
+        },
+        "rules": [],
+        "slug": null,
+        "schema": {
+            "version": 0.835,
+            "lastMigration": {
+                "datetime": "2023-04-01T10:49:39.589-07:00",
+                "version": {
+                    "schema": 0.833,
+                    "foundry": "10.291",
+                    "system": "4.10.1"
+                }
+            }
+        },
+        "level": {
+            "value": 0
+        },
+        "traits": {
+            "value": [],
+            "rarity": "unique",
+            "otherTags": []
+        },
+        "quantity": 1,
+        "baseItem": "glaive",
+        "hp": {
+            "brokenThreshold": 0,
+            "value": 0,
+            "max": 0
+        },
+        "hardness": 0,
+        "weight": {
+            "value": "-"
+        },
+        "equippedBulk": {
+            "value": ""
+        },
+        "price": {
+            "value": {}
+        },
+        "equipped": {
+            "carryType": "worn",
+            "invested": null,
+            "handsHeld": 0
+        },
+        "stackGroup": null,
+        "negateBulk": {
+            "value": "0"
+        },
+        "containerId": null,
+        "preciousMaterial": {
+            "value": null
+        },
+        "preciousMaterialGrade": {
+            "value": null
+        },
+        "size": "med",
+        "identification": {
+            "status": "identified",
+            "unidentified": {
+                "name": "Unusual Weapon",
+                "img": "systems/pf2e/icons/unidentified_item_icons/weapon.webp",
+                "data": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "misidentified": {}
+        },
+        "usage": {
+            "value": "held-in-one-hand"
+        },
+        "category": "simple",
+        "group": "polearm",
+        "bonus": {
+            "value": 0
+        },
+        "damage": {
+            "dice": 1,
+            "die": "d8",
+            "damageType": "slashing",
+            "persistent": null
+        },
+        "bonusDamage": {
+            "value": 0
+        },
+        "splashDamage": {
+            "value": 0
+        },
+        "range": null,
+        "reload": {
+            "value": ""
+        },
+        "MAP": {
+            "value": ""
+        },
+        "potencyRune": {
+            "value": 1
+        },
+        "strikingRune": {
+            "value": "striking"
+        },
+        "specific": {
+            "value": false
+        },
+        "propertyRune1": {
+            "value": "ghostTouch"
+        },
+        "propertyRune2": {
+            "value": null
+        },
+        "propertyRune3": {
+            "value": null
+        },
+        "propertyRune4": {
+            "value": null
+        },
+        "property1": {
+            "value": "",
+            "dice": 0,
+            "die": "",
+            "damageType": "",
+            "critDice": 0,
+            "critDie": "",
+            "critDamage": "",
+            "critDamageType": "",
+            "strikeConditionType": "",
+            "strikeConditionValue": null,
+            "criticalConditionType": "blinded",
+            "criticalConditionValue": null
+        }
+    },
+    "img": "modules/raan-game-world-shared-compendium/Items/witch-glaive-legendary.png",
+    "ownership": {
+        "default": 0,
+        "IvPa3qdO1bPVPHL5": 3
+    },
+    "flags": {
+        "core": {
+            "sourceId": "Item.YVcHsrzoYyjBaGH4"
+        }
+    },
+    "_stats": {
+        "systemId": "pf2e",
+        "systemVersion": "4.10.4",
+        "coreVersion": "10.291",
+        "createdTime": 1679193744998,
+        "modifiedTime": 1681636399528,
+        "lastModifiedBy": "IvPa3qdO1bPVPHL5"
+    },
+    "folder": null,
+    "sort": 0,
+    "_id": "CsZA5Zj3154lBy0U"
+}
+{
+    "img": "systems/pf2e/icons/default-icons/equipment.svg",
+    "name": "Greater Voicebox",
+    "system": {
+        "description": {
+            "gm": "",
+            "value": "<p>This box contains small, magical amplifiers and a manifesting psicrystal that allow a nonverbal character to translate thought into speech and ephemeral images, which emit from the necklace. The speech produced matches any language you understand, and the images created are obviously illusory (and partiall transparent) but can take the shape of anything the wearer has personally seen, as well as a number of useful glyphs:</p>\n<ul>\n<li>A red X</li>\n<li>A green check mark</li>\n<li>Arrows pointing in any direction</li>\n</ul>"
+        },
+        "source": {
+            "value": "Pathfinder Treasure Vault"
+        },
+        "rules": [],
+        "slug": "voicebox",
+        "schema": {
+            "version": 0.835,
+            "lastMigration": null
+        },
+        "level": {
+            "value": 2
+        },
+        "traits": {
+            "value": [
+                "illusion",
+                "magical"
+            ],
+            "rarity": "common",
+            "otherTags": []
+        },
+        "quantity": 1,
+        "baseItem": null,
+        "hp": {
+            "brokenThreshold": 0,
+            "value": 0,
+            "max": 0
+        },
+        "hardness": 0,
+        "weight": {
+            "value": "-"
+        },
+        "equippedBulk": {
+            "value": ""
+        },
+        "price": {
+            "value": {
+                "sp": 5
+            }
+        },
+        "equipped": {
+            "carryType": "worn",
+            "invested": null
+        },
+        "stackGroup": null,
+        "negateBulk": {
+            "value": "0"
+        },
+        "containerId": null,
+        "preciousMaterial": {
+            "value": null
+        },
+        "preciousMaterialGrade": {
+            "value": null
+        },
+        "size": "med",
+        "identification": {
+            "status": "identified",
+            "unidentified": {
+                "name": "Unusual Necklace",
+                "img": "systems/pf2e/icons/unidentified_item_icons/adventuring_gear.webp",
+                "data": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "misidentified": {}
+        },
+        "usage": {
+            "value": "wornnecklace"
+        }
+    },
+    "type": "equipment",
+    "flags": {
+        "core": {
+            "sourceId": "Compendium.pf2e.equipment-srd.uWe8GXBjAdA0q4ad"
+        }
+    },
+    "effects": [],
+    "ownership": {
+        "default": 0,
+        "IvPa3qdO1bPVPHL5": 3
+    },
+    "_stats": {
+        "systemId": "pf2e",
+        "systemVersion": "4.10.4",
+        "coreVersion": "10.291",
+        "createdTime": 1680493298022,
+        "modifiedTime": 1681636402397,
+        "lastModifiedBy": "IvPa3qdO1bPVPHL5"
+    },
+    "folder": null,
+    "sort": 0,
+    "_id": "CtwBySQNHH74ZPRY"
+}
+{
+    "name": "Divine Runecrafting",
+    "type": "feat",
+    "effects": [],
+    "system": {
+        "description": {
+            "gm": "",
+            "value": "<p><strong>Prerequisite:</strong> Trained in Crafting</p>\n<p><strong>Benefit:</strong> You are capable of creating unique, enchanted inks and expending this magic to create runes. The process of doing this requires a Downtime Action, and requires research of a formula. A successful check allows for the create of an ink equal to the level of the crafter, and possessing an affinity for one or more schools of magic.</p>\n<p>This check also allows the crafter to expend such an ink to create an item from the ink of its level or lower, though the item must be no larger than the parchment onto which the craftsperson inscribes the enchanted ink. Larger parchments than your standard page may be created and used, but one vial only contains enough enchanted ink to enchant a single standard-sized page.</p>\n<p>Depending on the type of ink used, the DC for this craft may be easier or harder than normal; you'll need to discuss this with your GM.</p>"
+        },
+        "source": {
+            "value": ""
+        },
+        "rules": [],
+        "slug": null,
+        "schema": {
+            "version": 0.835,
+            "lastMigration": null
+        },
+        "level": {
+            "value": 1
+        },
+        "traits": {
+            "value": [],
+            "rarity": "rare"
+        },
+        "category": "bonus",
+        "onlyLevel1": false,
+        "maxTakable": 1,
+        "actionType": {
+            "value": "passive"
+        },
+        "actions": {
+            "value": null
+        },
+        "prerequisites": {
+            "value": [
+                {
+                    "value": "trained in crafting"
+                }
+            ]
+        },
+        "location": null
+    },
+    "img": "modules/raan-game-world-shared-compendium/Items/glowing-rune-red.jpg",
+    "ownership": {
+        "default": 0,
+        "IvPa3qdO1bPVPHL5": 3
+    },
+    "flags": {
+        "core": {
+            "sourceId": "Item.s4anuDU8e0DhDJPq"
+        }
+    },
+    "_stats": {
+        "systemId": "pf2e",
+        "systemVersion": "4.10.4",
+        "coreVersion": "10.291",
+        "createdTime": 1681620340923,
+        "modifiedTime": 1681636394701,
+        "lastModifiedBy": "IvPa3qdO1bPVPHL5"
+    },
+    "folder": null,
+    "sort": 0,
+    "_id": "adqVCd96AsCQeFGp"
+}
+{
+    "name": "Ancients",
+    "type": "deity",
+    "system": {
+        "description": {
+            "gm": "",
+            "value": ""
+        },
+        "source": {
+            "value": ""
+        },
+        "rules": [],
+        "slug": null,
+        "schema": {
+            "version": 0.827,
+            "lastMigration": null
+        },
+        "category": "deity",
+        "alignment": {
+            "own": "N",
+            "follower": [
+                "N"
+            ]
+        },
+        "domains": {
+            "primary": [],
+            "alternate": []
+        },
+        "font": [
+            "harm",
+            "heal"
+        ],
+        "ability": [],
+        "skill": null,
+        "weapons": [],
+        "spells": {}
+    },
+    "img": "systems/pf2e/icons/default-icons/deity.svg",
+    "effects": [],
+    "ownership": {
+        "default": 0,
+        "IvPa3qdO1bPVPHL5": 3
+    },
+    "flags": {
+        "core": {
+            "sourceId": "Item.pwwMqcm6u8lRqjSg"
+        }
+    },
+    "_stats": {
+        "systemId": "pf2e",
+        "systemVersion": "4.8.3",
+        "coreVersion": "10.291",
+        "createdTime": 1677885218372,
+        "modifiedTime": 1677885543758,
+        "lastModifiedBy": "IvPa3qdO1bPVPHL5"
+    },
+    "folder": null,
+    "sort": 0,
+    "_id": "pKcaHkCV8ZMjgERJ"
+}
+{
+    "name": "Bastion",
+    "type": "deity",
+    "system": {
+        "description": {
+            "gm": "",
+            "value": "<p>Bastion is the major god of retribution and liberty. He is the manifestation of righteous anger, a punisher of evil who defends the heavens from their trepidations, and a champion against oppression. He is commonly depicted as a humanoid with three pairs of white feathered wings, bearing a weapon of great fury, and armor matching the culture depicting him.</p>\n<h2>Dogma</h2>\n<p>Bastion teaches the importance of justice and liberty, and bids his followers to oppose injustice and tyranny wherever it may be found. Evil is to be sought out and destroyed, and its wrongs to be redressed by the hand of the righteous. With the brutal and fleeting nature of life, Bastion also goads his worshippers to make merry and enjoy life while it lasts.</p>\n<h2>Followers</h2>\n<p>As one of the two sons of Amanda, Bastion enjoys widespread popularity, with temples neighboring hers or annexes in her temples.</p>\n<p>Those who dedicate their lives to Bastion are those who wish to protect the innocent and punish the guilty on a more personal level, and thus commonly can be found as adventurers of unique zeal and candor, or as traveling errant who right wrongs. Any who show the desire and aptitude to become clergy or paladins are trained and welcomed with open arms.</p>\n<p>Temples of Bastion have a tendency to resemble inns more than they do temples, and the brewing of consecrated beers nd meads are both a religious ritual and one more excuse to congregate. The more popular and larger temples have open air training fields where clergy can practice. The one universal element to all temples of Bastion, however, is the <strong><em>Vault of Unanswered Sins</em></strong>. This vault holds scrolls that detail wrongs that have been committed, but have gone unpunished. Many are brought in by those in the community that surrounds a temple, but a precious few appear in flashes of divine light. All are researched by the temple and their allies and, if found worthy of redress, are taken up as quests.</p>"
+        },
+        "source": {
+            "value": ""
+        },
+        "rules": [],
+        "slug": null,
+        "schema": {
+            "version": 0.827,
+            "lastMigration": {
+                "datetime": "2023-02-25T21:29:10.758-07:00",
+                "version": {
+                    "schema": 0.819,
+                    "foundry": "10.291",
+                    "system": "4.8.1"
+                }
+            }
+        },
+        "category": "deity",
+        "alignment": {
+            "own": "CG",
+            "follower": [
+                "CG",
+                "CN",
+                "NG"
+            ]
+        },
+        "domains": {
+            "primary": [
+                "freedom",
+                "lightning",
+                "might",
+                "zeal"
+            ],
+            "alternate": []
+        },
+        "font": [
+            "heal"
+        ],
+        "ability": [
+            "str"
+        ],
+        "skill": "itm",
+        "weapons": [
+            "dwarven-war-axe"
+        ],
+        "spells": {}
+    },
+    "img": "systems/pf2e/icons/default-icons/deity.svg",
+    "effects": [],
+    "ownership": {
+        "default": 0,
+        "QcaRhHMRi7VRyTR6": 3
+    },
+    "flags": {
+        "core": {
+            "sourceId": "Item.48wrUMAvvl0LwGYV"
+        }
+    },
+    "_stats": {
+        "systemId": "pf2e",
+        "systemVersion": "4.8.3",
+        "coreVersion": "10.291",
+        "createdTime": 1677375616757,
+        "modifiedTime": 1677885200419,
+        "lastModifiedBy": "IvPa3qdO1bPVPHL5"
+    },
+    "folder": null,
+    "sort": 0,
+    "_id": "qll8PucAEUBG8IQ8"
+}
+{
+    "name": "Blessing of the Divine Scribe",
+    "type": "feat",
+    "effects": [],
+    "system": {
+        "description": {
+            "gm": "",
+            "value": "<p><span class=\"hljs-strong\"><strong>Prerequisite:</strong></span> Expert in Crafting, Divine Runecrafting</p>\n<p><span class=\"hljs-strong\"><strong>Benefit:</strong></span> You are capable of enchanting mundane items into magic items with the process of runesmithing, and crafting some items wholesale, using your capacity to create using enchanted inks and creation effects. If you also have the Magical Crafting feat, this feat grants you a +2 circumstance bonus to the creation or enchantment of any item that overlaps. You treat any runesmithing check to remove or inscribe any non-unique weapon or armor rune as if its difficulty (and thus its DC) was either one order of magnitude less, or two levels lower, whichever would benefit you more (or make more sense; discuss this with your GM).</p>"
+        },
+        "source": {
+            "value": ""
+        },
+        "rules": [],
+        "slug": null,
+        "schema": {
+            "version": 0.835,
+            "lastMigration": null
+        },
+        "level": {
+            "value": 4
+        },
+        "traits": {
+            "value": [],
+            "rarity": "rare"
+        },
+        "category": "bonus",
+        "onlyLevel1": false,
+        "maxTakable": 1,
+        "actionType": {
+            "value": "passive"
+        },
+        "actions": {
+            "value": null
+        },
+        "prerequisites": {
+            "value": [
+                {
+                    "value": "Expert in Crafting"
+                },
+                {
+                    "value": "Divine Runecasting"
+                }
+            ]
+        },
+        "location": null
+    },
+    "img": "modules/raan-game-world-shared-compendium/Items/glowing-rune-red.jpg",
+    "ownership": {
+        "default": 0,
+        "IvPa3qdO1bPVPHL5": 3
+    },
+    "flags": {
+        "core": {
+            "sourceId": "Item.O7KevAdu9xAJmYHe"
+        }
+    },
+    "_stats": {
+        "systemId": "pf2e",
+        "systemVersion": "4.10.4",
+        "coreVersion": "10.291",
+        "createdTime": 1681620709412,
+        "modifiedTime": 1681636390819,
+        "lastModifiedBy": "IvPa3qdO1bPVPHL5"
+    },
+    "folder": null,
+    "sort": 0,
+    "_id": "vXxv6dFxVHJx0F96"
+}

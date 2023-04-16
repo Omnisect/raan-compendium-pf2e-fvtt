@@ -1,0 +1,150 @@
+{
+    "name": "New Critical Miss",
+    "img": "modules/raan-game-world-shared-compendium/Items/provoke-attack.png",
+    "description": "Critical Miss",
+    "results": [
+        {
+            "type": 0,
+            "weight": 1,
+            "range": [
+                2,
+                2
+            ],
+            "drawn": false,
+            "documentCollection": "",
+            "_id": "qpyY20uvqc8bYBtF",
+            "text": "Sudden Riches",
+            "img": "modules/raan-game-world-shared-compendium/Items/sudden-riches.png",
+            "documentId": null,
+            "flags": {}
+        },
+        {
+            "type": 0,
+            "weight": 2,
+            "range": [
+                3,
+                4
+            ],
+            "drawn": false,
+            "documentCollection": "",
+            "_id": "28KKnc4zrh6dpyFW",
+            "text": "Embarrassing Miss",
+            "img": "modules/raan-game-world-shared-compendium/Items/embarassing-miss.png",
+            "documentId": null,
+            "flags": {}
+        },
+        {
+            "type": 0,
+            "weight": 2,
+            "range": [
+                5,
+                6
+            ],
+            "drawn": false,
+            "documentCollection": "",
+            "_id": "EzFtM1Kw82b6JJa4",
+            "text": "Provoke Opportunity Attack",
+            "img": "modules/raan-game-world-shared-compendium/Items/provoke-attack.png",
+            "documentId": null,
+            "flags": {}
+        },
+        {
+            "type": 0,
+            "weight": 8,
+            "range": [
+                7,
+                14
+            ],
+            "drawn": false,
+            "documentCollection": "",
+            "_id": "FhtpiNa4FEK6225k",
+            "text": "Simple Miss",
+            "img": "modules/raan-game-world-shared-compendium/Items/no-effect.png",
+            "documentId": null,
+            "flags": {}
+        },
+        {
+            "type": 0,
+            "weight": 3,
+            "range": [
+                15,
+                17
+            ],
+            "drawn": false,
+            "documentCollection": "",
+            "_id": "q1vBOGCKAjvFFXmI",
+            "text": "Dangerous Slip",
+            "img": "modules/raan-game-world-shared-compendium/Items/dangerous-slip.png",
+            "documentId": null,
+            "flags": {}
+        },
+        {
+            "type": 0,
+            "weight": 2,
+            "range": [
+                18,
+                19
+            ],
+            "drawn": false,
+            "documentCollection": "",
+            "_id": "K7Wl1wNVBaWj2dTj",
+            "text": "Lose Weapon / Ruin Casting",
+            "img": "modules/raan-game-world-shared-compendium/Items/lose-weapon.png",
+            "documentId": null,
+            "flags": {}
+        },
+        {
+            "type": 0,
+            "weight": 2,
+            "range": [
+                20,
+                21
+            ],
+            "drawn": false,
+            "documentCollection": "",
+            "_id": "5Kx628xHLa0dxmjf",
+            "text": "Strike Self",
+            "img": "modules/raan-game-world-shared-compendium/Items/hit-self.png",
+            "documentId": null,
+            "flags": {}
+        },
+        {
+            "type": 0,
+            "weight": 3,
+            "range": [
+                22,
+                24
+            ],
+            "drawn": false,
+            "documentCollection": "",
+            "_id": "pEwxdriS9MiJtXx7",
+            "text": "Strike Nearby Target",
+            "img": "modules/raan-game-world-shared-compendium/Items/misfire.png",
+            "documentId": null,
+            "flags": {}
+        }
+    ],
+    "formula": "2d12",
+    "replacement": true,
+    "displayRoll": true,
+    "ownership": {
+        "default": 0,
+        "QcaRhHMRi7VRyTR6": 3
+    },
+    "flags": {
+        "core": {
+            "sourceId": "RollTable.Lqaxjbg3kOZeKVOI"
+        }
+    },
+    "_stats": {
+        "systemId": "pf2e",
+        "systemVersion": "4.9.3",
+        "coreVersion": "10.291",
+        "createdTime": 1678913897845,
+        "modifiedTime": 1679168406327,
+        "lastModifiedBy": "IvPa3qdO1bPVPHL5"
+    },
+    "folder": null,
+    "sort": 0,
+    "_id": "9Y5en5Ttb4u2RPAj"
+}

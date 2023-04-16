@@ -1,0 +1,71 @@
+{
+    "name": "raan-game-world-shared-compendium",
+    "title": "Raan Game World Shared Compendium",
+    "author": "Shado",
+    "description": "A compendium for the world of Raan to share between campaigns.",
+    "packs": [
+        {
+            "name": "raan-actors",
+            "label": "Raan Actors",
+            "type": "Actor",
+            "system": "pf2e",
+            "path": "packs/raan-actors.db",
+            "entity": "Actor",
+            "module": "raan-game-world-shared-compendium"
+        },
+        {
+            "name": "raan-decks",
+            "label": "Raan Decks",
+            "type": "Cards",
+            "path": "packs/raan-decks.db",
+            "entity": "Cards",
+            "module": "raan-game-world-shared-compendium"
+        },
+        {
+            "name": "raan-items",
+            "label": "Raan Items",
+            "type": "Item",
+            "system": "pf2e",
+            "path": "packs/raan-items.db",
+            "entity": "Item",
+            "module": "raan-game-world-shared-compendium"
+        },
+        {
+            "name": "raan-journal-entries",
+            "label": "Raan Journal Entries",
+            "type": "JournalEntry",
+            "path": "packs/raan-journal-entries.db",
+            "entity": "JournalEntry",
+            "module": "raan-game-world-shared-compendium"
+        },
+        {
+            "name": "raan-macros",
+            "label": "Raan Macros",
+            "type": "Macro",
+            "path": "packs/raan-macros.db",
+            "entity": "Macro",
+            "module": "raan-game-world-shared-compendium"
+        },
+        {
+            "name": "raan-roll-tables",
+            "label": "Raan Roll Tables",
+            "type": "RollTable",
+            "path": "packs/raan-roll-tables.db",
+            "entity": "RollTable",
+            "module": "raan-game-world-shared-compendium"
+        }
+    ],
+    "id": "raan-game-world-shared-compendium",
+    "authors": [
+        {
+            "name": "Shado"
+        }
+    ],
+    "minimumCoreVersion": "9",
+    "compatibleCoreVersion": "9",
+    "compatibility": {
+        "minimum": 9,
+        "verified": 10
+    },
+    "version": "1.1"
+}
